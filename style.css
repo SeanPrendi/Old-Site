@@ -90,6 +90,12 @@ body {
     color: #fff;
     transition: 0.2s ease;
 }
+.quotes {
+  display: none;
+  font-family: Montserrat;
+  text-transform: uppercase;
+  color: #222;
+}
 
 @media screen and (max-width: 768px) {
     .name {
