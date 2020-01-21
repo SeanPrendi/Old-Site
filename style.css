@@ -119,8 +119,8 @@ h1 {
     display: inline-block;
     /* width: 200px; */
     padding: 8px;
-    color: #000;
-    border: 2px solid #000;
+    color: #222;
+    border: 2px solid #222;
     border-radius: 12px;
     text-align: center;
     outline: none;
@@ -135,7 +135,7 @@ h1 {
   }
   .ghost-button:hover,
   .ghost-button:active {
-    background-color: #000;
+    background-color: #222;
     color: #fff;
     transition: background-color 0.3s ease-in,
                 color 0.3s ease-in;
